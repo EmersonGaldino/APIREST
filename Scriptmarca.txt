@@ -1,0 +1,3 @@
+SET IDENTITY_INSERT [dbo].[Marcas] ON
+INSERT INTO [dbo].[Marcas] ([MarcaID], [Nome]) VALUES (1, NULL)
+SET IDENTITY_INSERT [dbo].[Marcas] OFF
