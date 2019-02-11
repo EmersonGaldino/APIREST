@@ -1,0 +1,4 @@
+SET IDENTITY_INSERT [dbo].[Patrimonios] ON
+INSERT INTO [dbo].[Patrimonios] ([MarcaID], [Nome], [Descricao], [NumeroTombo]) VALUES (1, NULL, NULL, 0)
+INSERT INTO [dbo].[Patrimonios] ([MarcaID], [Nome], [Descricao], [NumeroTombo]) VALUES (2, NULL, NULL, 0)
+SET IDENTITY_INSERT [dbo].[Patrimonios] OFF
